@@ -2,9 +2,9 @@ public class HomeWork2 {
     public static void main(String[] args) {
         System.out.println(work1(2, 8));
         work2(47);
-        System.out.println(work3(11));
+        System.out.println(work3(12));
         work4("Juice", 9);
-        System.out.println(work5 (751));
+        System.out.println(work5 (761));
 
     }
 
